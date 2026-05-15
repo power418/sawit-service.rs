@@ -1,9 +1,5 @@
 # Sawit Multiplayer: PRD & Scalable Architecture
 
-> Sumber-kebenaran: dokumen ini; ringkasan repo ada di `README.md`.
-> Terakhir diperbarui: 2026-05-15 (Asia/Jakarta).
-> Encoding: UTF-8.
-
 ## 1. Ringkasan
 
 Sawit Engine diposisikan sebagai game/engine berbasis Rust dengan arsitektur multiplayer scalable. Fokus dokumen ini adalah menyatukan visi produk (PRD) dengan rancangan teknis (Arsitektur) agar player bisa saling terhubung, sinkron, dan sistem bisa berkembang dari prototype hingga production.
