@@ -4,8 +4,7 @@ Repo ini berisi dokumen PRD + rancangan arsitektur fondasi multiplayer scalable 
 
 ## Dokumen
 
-- PRD utama: [prd_multiplayer_sawit_engine.md](prd_multiplayer_sawit_engine.md)
-- Analogi arsitektur TCP/UDP scalable: [tcp_udp_scalable_architecture.md](tcp_udp_scalable_architecture.md)
+- Fondasi Arsitektur & PRD: [multiplayer_foundation.md](docs/multiplayer_foundation.md)
 
 ## TL;DR
 
@@ -15,7 +14,7 @@ Repo ini berisi dokumen PRD + rancangan arsitektur fondasi multiplayer scalable 
 
 ## Target MVP (ringkas)
 
-Detail lengkap ada di PRD (bagian “Acceptance Criteria MVP”).
+Detail lengkap ada di [multiplayer_foundation.md](docs/multiplayer_foundation.md) (bagian “Acceptance Criteria MVP”).
 
 - Jalankan realtime server lokal.
 - Jalankan 2 instance client dan join room yang sama.
@@ -30,7 +29,7 @@ Dokumen ditulis dalam UTF-8. Kalau muncul karakter aneh (mis. “â€””), p
 
 ## Kontribusi
 
-- Update spesifikasi di [prd_multiplayer_sawit_engine.md](prd_multiplayer_sawit_engine.md).
+- Update spesifikasi di [multiplayer_foundation.md](docs/multiplayer_foundation.md).
 - Jaga penomoran section dan istilah agar tidak drift antar perubahan.
 
 ## Menjalankan (MVP)
